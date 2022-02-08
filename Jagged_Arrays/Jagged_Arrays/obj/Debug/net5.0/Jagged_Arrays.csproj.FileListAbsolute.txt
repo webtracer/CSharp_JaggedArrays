@@ -1,0 +1,16 @@
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Jagged_Arrays\Jagged_Arrays\bin\Debug\net5.0\Jagged_Arrays.exe
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Jagged_Arrays\Jagged_Arrays\bin\Debug\net5.0\Jagged_Arrays.deps.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Jagged_Arrays\Jagged_Arrays\bin\Debug\net5.0\Jagged_Arrays.runtimeconfig.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Jagged_Arrays\Jagged_Arrays\bin\Debug\net5.0\Jagged_Arrays.runtimeconfig.dev.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Jagged_Arrays\Jagged_Arrays\bin\Debug\net5.0\Jagged_Arrays.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Jagged_Arrays\Jagged_Arrays\bin\Debug\net5.0\ref\Jagged_Arrays.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Jagged_Arrays\Jagged_Arrays\bin\Debug\net5.0\Jagged_Arrays.pdb
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Jagged_Arrays\Jagged_Arrays\obj\Debug\net5.0\Jagged_Arrays.csproj.AssemblyReference.cache
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Jagged_Arrays\Jagged_Arrays\obj\Debug\net5.0\Jagged_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Jagged_Arrays\Jagged_Arrays\obj\Debug\net5.0\Jagged_Arrays.AssemblyInfoInputs.cache
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Jagged_Arrays\Jagged_Arrays\obj\Debug\net5.0\Jagged_Arrays.AssemblyInfo.cs
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Jagged_Arrays\Jagged_Arrays\obj\Debug\net5.0\Jagged_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Jagged_Arrays\Jagged_Arrays\obj\Debug\net5.0\Jagged_Arrays.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Jagged_Arrays\Jagged_Arrays\obj\Debug\net5.0\ref\Jagged_Arrays.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Jagged_Arrays\Jagged_Arrays\obj\Debug\net5.0\Jagged_Arrays.pdb
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Jagged_Arrays\Jagged_Arrays\obj\Debug\net5.0\Jagged_Arrays.genruntimeconfig.cache

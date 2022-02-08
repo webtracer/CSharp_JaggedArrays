@@ -1,0 +1,16 @@
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Jagged_Arrays_Challenge\Jagged_Arrays_Challenge\bin\Debug\net5.0\Jagged_Arrays_Challenge.exe
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Jagged_Arrays_Challenge\Jagged_Arrays_Challenge\bin\Debug\net5.0\Jagged_Arrays_Challenge.deps.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Jagged_Arrays_Challenge\Jagged_Arrays_Challenge\bin\Debug\net5.0\Jagged_Arrays_Challenge.runtimeconfig.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Jagged_Arrays_Challenge\Jagged_Arrays_Challenge\bin\Debug\net5.0\Jagged_Arrays_Challenge.runtimeconfig.dev.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Jagged_Arrays_Challenge\Jagged_Arrays_Challenge\bin\Debug\net5.0\Jagged_Arrays_Challenge.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Jagged_Arrays_Challenge\Jagged_Arrays_Challenge\bin\Debug\net5.0\ref\Jagged_Arrays_Challenge.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Jagged_Arrays_Challenge\Jagged_Arrays_Challenge\bin\Debug\net5.0\Jagged_Arrays_Challenge.pdb
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Jagged_Arrays_Challenge\Jagged_Arrays_Challenge\obj\Debug\net5.0\Jagged_Arrays_Challenge.csproj.AssemblyReference.cache
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Jagged_Arrays_Challenge\Jagged_Arrays_Challenge\obj\Debug\net5.0\Jagged_Arrays_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Jagged_Arrays_Challenge\Jagged_Arrays_Challenge\obj\Debug\net5.0\Jagged_Arrays_Challenge.AssemblyInfoInputs.cache
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Jagged_Arrays_Challenge\Jagged_Arrays_Challenge\obj\Debug\net5.0\Jagged_Arrays_Challenge.AssemblyInfo.cs
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Jagged_Arrays_Challenge\Jagged_Arrays_Challenge\obj\Debug\net5.0\Jagged_Arrays_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Jagged_Arrays_Challenge\Jagged_Arrays_Challenge\obj\Debug\net5.0\Jagged_Arrays_Challenge.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Jagged_Arrays_Challenge\Jagged_Arrays_Challenge\obj\Debug\net5.0\ref\Jagged_Arrays_Challenge.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Jagged_Arrays_Challenge\Jagged_Arrays_Challenge\obj\Debug\net5.0\Jagged_Arrays_Challenge.pdb
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Jagged_Arrays_Challenge\Jagged_Arrays_Challenge\obj\Debug\net5.0\Jagged_Arrays_Challenge.genruntimeconfig.cache
